@@ -1,0 +1,330 @@
+2024-03-07 22:43:21 INFO  RestFWLogger:22 - Stated
+2024-03-07 23:00:57 INFO  RestFWLogger:22 - create a repo from pojo test case payload is:pojoPayloads.CreateARepoPojo@7730ef88
+2024-03-07 23:00:57 INFO  RestFWLogger:22 - pojo to json conversion{
+  "name" : "Melodi",
+  "description" : "Ratione distinctio rerum est aut voluptatibus."
+}
+2024-03-07 23:01:00 INFO  RestFWLogger:22 - request payload isio.restassured.internal.RestAssuredResponseImpl@38c55a8a
+2024-03-07 23:01:00 INFO  RestFWLogger:22 - 201
+2024-03-07 23:01:01 INFO  RestFWLogger:22 - Melodi
+2024-03-07 23:01:02 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@6ba08a09
+2024-03-07 23:01:02 INFO  RestFWLogger:22 - 204
+2024-03-08 15:52:34 INFO  RestFWLogger:22 - create a repo from pojo test case payload is:pojoPayloads.CreateARepoPojo@4391a2d8
+2024-03-08 15:52:34 INFO  RestFWLogger:22 - pojo to json conversion{
+  "name" : "Edwin",
+  "description" : "Repellat architecto expedita nesciunt ratione."
+}
+2024-03-08 15:52:36 INFO  RestFWLogger:22 - io.restassured.internal.RequestSpecificationImpl@9f9146d
+2024-03-08 15:52:40 INFO  RestFWLogger:22 - request payload isio.restassured.internal.RestAssuredResponseImpl@5abc5854
+2024-03-08 15:52:40 INFO  RestFWLogger:22 - 201
+2024-03-08 15:52:42 INFO  RestFWLogger:22 - Edwin
+2024-03-08 15:52:42 INFO  RestFWLogger:22 - io.restassured.internal.RequestSpecificationImpl@31a024ea
+2024-03-08 15:52:43 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@7a0f43dc
+2024-03-08 15:52:43 INFO  RestFWLogger:22 - 204
+2024-03-08 15:55:16 INFO  RestFWLogger:22 - create a repo from pojo test case payload is:pojoPayloads.CreateARepoPojo@71e7adbb
+2024-03-08 15:55:16 INFO  RestFWLogger:22 - pojo to json conversion{
+  "name" : "Jamaal",
+  "description" : "Sequi molestiae exercitationem dolor."
+}
+2024-03-08 15:55:17 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@45e7bb79
+2024-03-08 15:55:21 INFO  RestFWLogger:22 - request payload isio.restassured.internal.RestAssuredResponseImpl@1191029d
+2024-03-08 15:55:21 INFO  RestFWLogger:22 - 201
+2024-03-08 15:55:23 INFO  RestFWLogger:22 - Jamaal
+2024-03-08 15:55:23 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@2d34866a
+2024-03-08 15:55:24 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@77e1dacd
+2024-03-08 15:55:24 INFO  RestFWLogger:22 - 204
+2024-03-08 15:57:23 INFO  RestFWLogger:22 - create a repo from pojo test case payload is:pojoPayloads.CreateARepoPojo@71e7adbb
+2024-03-08 15:57:23 INFO  RestFWLogger:22 - pojo to json conversion{
+  "name" : "Herb",
+  "description" : "Quisquam tempora ducimus."
+}
+2024-03-08 15:57:24 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@2ef041bb
+2024-03-08 15:57:28 INFO  RestFWLogger:22 - request payload isio.restassured.internal.RestAssuredResponseImpl@4a5066f5
+2024-03-08 15:57:28 INFO  RestFWLogger:22 - 201
+2024-03-08 15:57:30 INFO  RestFWLogger:22 - Herb
+2024-03-08 15:57:30 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@1983a4e4
+2024-03-08 15:57:31 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@1f7fcec2
+2024-03-08 15:57:31 INFO  RestFWLogger:22 - 204
+2024-03-08 16:10:28 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 16:10:32 INFO  RestFWLogger:22 - 201
+2024-03-08 16:10:34 INFO  RestFWLogger:22 - Selina
+2024-03-08 16:10:34 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@1983a4e4
+2024-03-08 16:10:34 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@1f6e6f50
+2024-03-08 16:10:34 INFO  RestFWLogger:22 - 204
+2024-03-08 16:15:38 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@65e4cb84
+2024-03-08 16:15:42 INFO  RestFWLogger:22 - response body is {
+    "id": 769099028,
+    "node_id": "R_kgDOLdeFFA",
+    "name": "Catrina",
+    "full_name": "geetlanarendar/Catrina",
+    "private": false,
+    "owner": {
+        "login": "geetlanarendar",
+        "id": 159451662,
+        "node_id": "U_kgDOCYEKDg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/159451662?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/geetlanarendar",
+        "html_url": "https://github.com/geetlanarendar",
+        "followers_url": "https://api.github.com/users/geetlanarendar/followers",
+        "following_url": "https://api.github.com/users/geetlanarendar/following{/other_user}",
+        "gists_url": "https://api.github.com/users/geetlanarendar/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/geetlanarendar/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/geetlanarendar/subscriptions",
+        "organizations_url": "https://api.github.com/users/geetlanarendar/orgs",
+        "repos_url": "https://api.github.com/users/geetlanarendar/repos",
+        "events_url": "https://api.github.com/users/geetlanarendar/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/geetlanarendar/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/geetlanarendar/Catrina",
+    "description": "At quia aperiam.",
+    "fork": false,
+    "url": "https://api.github.com/repos/geetlanarendar/Catrina",
+    "forks_url": "https://api.github.com/repos/geetlanarendar/Catrina/forks",
+    "keys_url": "https://api.github.com/repos/geetlanarendar/Catrina/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/geetlanarendar/Catrina/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/geetlanarendar/Catrina/teams",
+    "hooks_url": "https://api.github.com/repos/geetlanarendar/Catrina/hooks",
+    "issue_events_url": "https://api.github.com/repos/geetlanarendar/Catrina/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/geetlanarendar/Catrina/events",
+    "assignees_url": "https://api.github.com/repos/geetlanarendar/Catrina/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/geetlanarendar/Catrina/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/geetlanarendar/Catrina/tags",
+    "blobs_url": "https://api.github.com/repos/geetlanarendar/Catrina/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/geetlanarendar/Catrina/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/geetlanarendar/Catrina/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/geetlanarendar/Catrina/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/geetlanarendar/Catrina/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/geetlanarendar/Catrina/languages",
+    "stargazers_url": "https://api.github.com/repos/geetlanarendar/Catrina/stargazers",
+    "contributors_url": "https://api.github.com/repos/geetlanarendar/Catrina/contributors",
+    "subscribers_url": "https://api.github.com/repos/geetlanarendar/Catrina/subscribers",
+    "subscription_url": "https://api.github.com/repos/geetlanarendar/Catrina/subscription",
+    "commits_url": "https://api.github.com/repos/geetlanarendar/Catrina/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/geetlanarendar/Catrina/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/geetlanarendar/Catrina/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/geetlanarendar/Catrina/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/geetlanarendar/Catrina/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/geetlanarendar/Catrina/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/geetlanarendar/Catrina/merges",
+    "archive_url": "https://api.github.com/repos/geetlanarendar/Catrina/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/geetlanarendar/Catrina/downloads",
+    "issues_url": "https://api.github.com/repos/geetlanarendar/Catrina/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/geetlanarendar/Catrina/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/geetlanarendar/Catrina/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/geetlanarendar/Catrina/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/geetlanarendar/Catrina/labels{/name}",
+    "releases_url": "https://api.github.com/repos/geetlanarendar/Catrina/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/geetlanarendar/Catrina/deployments",
+    "created_at": "2024-03-08T10:45:43Z",
+    "updated_at": "2024-03-08T10:45:43Z",
+    "pushed_at": "2024-03-08T10:45:43Z",
+    "git_url": "git://github.com/geetlanarendar/Catrina.git",
+    "ssh_url": "git@github.com:geetlanarendar/Catrina.git",
+    "clone_url": "https://github.com/geetlanarendar/Catrina.git",
+    "svn_url": "https://github.com/geetlanarendar/Catrina",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+    },
+    "allow_squash_merge": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": false,
+    "delete_branch_on_merge": false,
+    "allow_update_branch": false,
+    "use_squash_pr_title_as_default": false,
+    "squash_merge_commit_message": "COMMIT_MESSAGES",
+    "squash_merge_commit_title": "COMMIT_OR_PR_TITLE",
+    "merge_commit_message": "PR_TITLE",
+    "merge_commit_title": "MERGE_MESSAGE",
+    "network_count": 0,
+    "subscribers_count": 0
+}
+2024-03-08 16:15:42 INFO  RestFWLogger:22 - 201
+2024-03-08 16:15:44 INFO  RestFWLogger:22 - Catrina
+2024-03-08 16:15:44 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@614361fa
+2024-03-08 16:15:44 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@372841d2
+2024-03-08 16:15:44 INFO  RestFWLogger:22 - 204
+2024-03-08 16:18:39 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@65e4cb84
+2024-03-08 16:18:43 INFO  RestFWLogger:22 - 201
+2024-03-08 16:18:44 INFO  RestFWLogger:22 - Mariam
+2024-03-08 16:18:45 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@26291192
+2024-03-08 16:18:47 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@690677de
+2024-03-08 16:18:47 INFO  RestFWLogger:22 - 204
+2024-03-08 16:19:33 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 16:19:37 INFO  RestFWLogger:22 - 201
+2024-03-08 16:19:38 INFO  RestFWLogger:22 - Barney
+2024-03-08 16:19:38 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@e5c52fa
+2024-03-08 16:19:39 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@51c6e775
+2024-03-08 16:19:39 INFO  RestFWLogger:22 - 204
+2024-03-08 16:21:30 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7b44bfb8
+2024-03-08 16:21:35 INFO  RestFWLogger:22 - Henriette
+2024-03-08 16:21:35 ERROR RestFWLogger:30 - io.restassured.internal.RequestSpecificationImpl@14d53884
+2024-03-08 16:21:36 INFO  RestFWLogger:22 - io.restassured.internal.RestAssuredResponseImpl@446f3a53
+2024-03-08 16:21:36 INFO  RestFWLogger:22 - 204
+2024-03-08 16:24:57 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7b44bfb8
+2024-03-08 16:25:03 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@6ba08a09
+2024-03-08 16:25:04 INFO  RestFWLogger:22 - 204
+2024-03-08 16:32:42 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 16:32:48 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1382a7d8
+2024-03-08 16:50:55 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 16:51:00 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3b839f68
+2024-03-08 16:52:19 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7b44bfb8
+2024-03-08 16:52:24 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3b839f68
+2024-03-08 16:53:27 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 16:53:32 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@14d53884
+2024-03-08 17:04:04 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 17:04:10 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:06:06 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:06:12 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f8f5d37
+2024-03-08 17:08:34 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:08:39 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:09:41 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 17:09:46 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:11:35 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:11:40 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5f65e0c0
+2024-03-08 17:12:22 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 17:12:27 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f8f5d37
+2024-03-08 17:13:47 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:13:52 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:15:34 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:15:39 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:16:03 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:16:08 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f8f5d37
+2024-03-08 17:26:01 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7b44bfb8
+2024-03-08 17:26:06 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@d70dbeb
+2024-03-08 17:27:27 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:27:31 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f8f5d37
+2024-03-08 17:30:37 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:30:43 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@f9cd1e6
+2024-03-08 17:38:42 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@65e4cb84
+2024-03-08 17:38:48 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@578198d9
+2024-03-08 17:39:30 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:39:35 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@d70dbeb
+2024-03-08 17:42:33 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 17:42:38 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@d70dbeb
+2024-03-08 17:46:21 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:46:26 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@34d11c92
+2024-03-08 17:48:59 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:49:05 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:51:16 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 17:51:21 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 17:53:11 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 17:53:17 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f8f5d37
+2024-03-08 17:56:41 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:56:46 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5f65e0c0
+2024-03-08 17:58:35 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 17:58:40 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3980b44f
+2024-03-08 18:01:15 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 18:01:20 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@4c614d8c
+2024-03-08 18:01:39 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@65e4cb84
+2024-03-08 18:01:45 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@e1fd2bf
+2024-03-08 18:02:39 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 18:02:45 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f8f5d37
+2024-03-08 18:03:21 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 18:03:26 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3ff53704
+2024-03-08 18:07:28 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@98637a2
+2024-03-08 18:07:31 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@34d11c92
+2024-03-08 18:23:35 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e0f2c82
+2024-03-08 18:23:40 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7a364e1c
+2024-03-08 18:53:37 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@47f2c722
+2024-03-08 18:53:44 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3065efd0
+2024-03-08 19:05:22 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@35dcd032
+2024-03-08 19:05:27 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@6a4f7c17
+2024-03-08 22:55:31 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@539c4830
+2024-03-08 22:55:37 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7455204c
+2024-03-08 22:56:38 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@52ca0ad4
+2024-03-08 22:56:45 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@4a8bf1dc
+2024-03-08 23:10:33 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@47f2c722
+2024-03-08 23:10:40 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7aaf6bfd
+2024-03-08 23:35:16 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5f0677f3
+2024-03-08 23:35:24 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1d6a0962
+2024-03-08 23:39:44 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5f0677f3
+2024-03-08 23:39:49 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3c4e23be
+2024-03-08 23:58:15 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5f0677f3
+2024-03-08 23:58:22 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3c4e23be
+2024-03-09 00:01:28 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@283a8ad6
+2024-03-09 00:01:35 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@33239d72
+2024-03-13 14:53:43 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@418c020b
+2024-03-13 14:53:50 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@75ed125a
+2024-03-13 15:09:08 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@15f2eda3
+2024-03-13 15:09:16 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@11c7a0b4
+2024-03-13 17:39:31 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@d5ce97f
+2024-03-13 17:39:38 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@6b9697ae
+2024-03-13 18:01:33 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2f04105
+2024-03-13 18:01:42 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f642bf
+2024-03-13 18:01:43 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@25ae1f80
+2024-03-13 18:04:28 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2f04105
+2024-03-13 18:04:36 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7f642bf
+2024-03-13 18:05:11 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7048535f
+2024-03-13 18:05:18 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5546e754
+2024-03-13 18:05:20 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@59ec7020
+2024-03-13 18:05:21 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7b211077
+2024-03-13 18:16:45 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@548d5ed3
+2024-03-13 18:16:53 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5cdf221a
+2024-03-13 18:16:55 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@308e87a1
+2024-03-13 18:16:57 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@25470477
+2024-03-15 19:49:48 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1426370c
+2024-03-15 19:49:52 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@74cff17c
+2024-03-15 19:49:53 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5e41e6ad
+2024-03-15 19:49:54 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1b5d1d9
+2024-03-15 19:49:55 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@772bc4c9
+2024-03-15 19:49:56 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@862624f
+2024-05-15 20:09:26 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2a6fb62f
+2024-05-15 20:09:29 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@4ebd8d2
+2024-05-15 20:09:29 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@68f79b7c
+2024-05-15 20:09:30 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2c2e5e72
+2024-05-15 20:09:30 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@24b38e8f
+2024-05-15 20:09:31 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7535f28
+2024-05-15 20:10:49 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2a6fb62f
+2024-05-15 20:10:53 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@cfb94fd
+2024-05-15 20:10:53 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@6159fb3c
+2024-05-15 20:10:53 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3d57fb9e
+2024-05-15 20:10:54 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@5ac646b3
+2024-05-15 20:10:54 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2ba9f743
+2024-05-15 20:18:59 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1426370c
+2024-05-15 20:19:01 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@2270f58d
+2024-05-15 20:19:01 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1f19d423
+2024-05-15 20:19:02 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1013871e
+2024-05-15 20:19:02 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@24842b8e
+2024-05-15 20:19:02 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1786150f
+2024-05-15 20:22:09 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@1426370c
+2024-05-15 20:22:13 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@662d3e85
+2024-05-15 20:22:14 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@3321fb65
+2024-05-15 20:22:15 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@265c0752
+2024-05-15 20:22:16 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@7af0693b
+2024-05-15 20:22:17 INFO  RestFWLogger:22 - request payload is io.restassured.internal.RequestSpecificationImpl@309e7215
