@@ -2,7 +2,7 @@ package commonUtils;
 
 public class Authorization {
 
-    private static final String token = "Bearer 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";
+    private static final String token = "Bearer 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";
 
     public static String getToken() {
         return token;
